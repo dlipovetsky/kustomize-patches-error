@@ -4,4 +4,4 @@ resources:
 - app.yaml
 
 patches:
-- multiple-patches.yaml
+- path: multiple-patches.yaml
